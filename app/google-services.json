@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471455789496",
+    "project_id": "solelife2",
+    "storage_bucket": "solelife2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471455789496:android:9f48241dc133cf503a5f4d",
+        "android_client_info": {
+          "package_name": "com.kang.mysolelife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471455789496-e9oq7tqto09dge3d5687uoebr3bke6lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCltlbg5y5fOZhxTwS_av9bd9-A3jExf4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471455789496-e9oq7tqto09dge3d5687uoebr3bke6lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
