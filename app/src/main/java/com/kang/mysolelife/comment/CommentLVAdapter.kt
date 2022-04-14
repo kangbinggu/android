@@ -29,7 +29,7 @@ class CommentLVAdapter(val commentList : MutableList<CommentModel>) : BaseAdapte
         var view = convertView
 
         if(view == null){
-            view = LayoutInflater.from(parent?.context).inflate(R.layout.board_list_item, parent, false)
+            view = LayoutInflater.from(parent?.context).inflate(R.layout.comment_list_item, parent, false)
         }
 
         val title = view?.findViewById<TextView>(R.id.titleArea)
